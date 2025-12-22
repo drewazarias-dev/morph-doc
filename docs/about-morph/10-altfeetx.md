@@ -263,7 +263,7 @@ require(balanceAfter == balanceBefore - amount)
 - 32-byte return: last byte must be 1
 - Any other format: reject
 
-##RLP Encoding
+## RLP Encoding
 RLP Encoding serializes the transaction into a space-efficient and standardized format
 
 **Transaction Encoding**
